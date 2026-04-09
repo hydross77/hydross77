@@ -98,18 +98,13 @@ PATIENCE       ████░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
 ![Visitors](https://komarev.com/ghpvc/?username=hydross77&color=eb459e&style=for-the-badge&label=VISITEURS&base=250)
-
-*"計画がある。"* — Renji Abarai
-*"J'ai un plan." — [le plan échoue immédiatement]*
 
 ---
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBpYzl4NWY4bmtpMHQybGZnMms5Z2hjeTByeDQwNTkwNnpvZ2RzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bCCUeY6WFEHrW/giphy.gif" width="200" alt="Neji Byakugan" />
 
-*"C'est la destinée."* — Neji Hyuga
-*[push en prod un vendredi quand même]*
+*"It's destiny."* — Neji Hyuga
+*[pushes to prod on a Friday anyway]*
 
 </div>
