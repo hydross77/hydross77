@@ -14,6 +14,7 @@
 ║  BANKAI        : Tensa Zangetsu — final form                 ║
 ║  REIATSU       : hors mesure                                 ║
 ║  FAIBLESSE     : les deadlines (et Aizen)                    ║
+║  PORTAIL       : https://www.auryx.fr                        ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
