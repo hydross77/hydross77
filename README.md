@@ -1,124 +1,101 @@
 <div align="center">
 
-# ⛩️ Tu es déjà debuggé. ⛩️
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&pause=600&color=EB459E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=BANKAI.;TENSA+ZANGETSU+—+debug+mode+activated" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%98%A0%EF%B8%8F+OMAE+WA+MOU+SHINDEIRU+%E2%98%A0%EF%B8%8F;NANI%3F!+*ton+bug+explose*" alt="Typing SVG" />
-
-<img src="https://media.giphy.com/media/10YWqUivkQPeeJWD3u/giphy.gif" width="300"/>
-
-<br>
-
-```diff
-- ⚠️ ATTENTION : Ce profil contient un développeur instable ⚠️
-+ Dernier bug survivant repéré il y a 0 jours
-! Niveau de menace : CATASTROPHIQUE
-# Nombre de bugs éliminés : ∞
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  NOM DE CODE   : VAGA
+  DIVISION      : 0  (hors hiérarchie)
+  ZANPAKUTO     : Anti-Bug no Tachi
+  BANKAI        : Tensa Zangetsu — clean architecture final form
+  REIATSU       : hors mesure
+  FAIBLESSE     : les deadlines (et Aizen)
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
 </div>
 
 ---
 
-<div align="center">
+## ZANPAKUTO
 
-### 💀 QUI SUIS-JE ?
+### Back-end
 
-</div>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Mercure](https://img.shields.io/badge/Mercure-4A154B?style=for-the-badge&logo=mercure&logoColor=white)
 
-```
-🔥 Nom de code : VAGA
-🩸 Classe     : Bug Slayer rang S
-👁️ Spécialité : Transformer du code spaghetti en chef-d'œuvre
-💀 Kill count  : 9999+ bugs éliminés (et ça continue)
-⚰️ Faiblesse  : Aucune. (ok peut-être les deadlines)
-```
+### Front-end
 
-> *"Les autres développeurs corrigent des bugs.*
-> *Moi, les bugs me voient arriver et se corrigent eux-mêmes."*
-> — VAGA, probablement
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
----
+### Infra & Outils
 
-<div align="center">
-
-### ⚔️ ARSENAL DE DESTRUCTION MASSIVE
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel%20(oui%20oui)-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Apps Script](https://img.shields.io/badge/-Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-</div>
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
+![mRemoteNG](https://img.shields.io/badge/mRemoteNG-1a1a2e?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-0F9D58?style=for-the-badge&logo=google-search-console&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-131313?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+![Robocorp](https://img.shields.io/badge/Robocorp-0d1117?style=for-the-badge&logo=robocorp&logoColor=00C7B7)
 
 ---
 
+## STATS
+
 <div align="center">
 
-### 🩸 STATS D'UN MONSTRE
-
-<img src="https://github-readme-stats.vercel.app/api?username=hydross77&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff&ring_color=ff0000" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hydross77&theme=radical&hide_border=true&background=0d1117&ring=ff0000&fire=ff4444&currStreakLabel=ff0000" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=hydross77&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=eb459e&icon_color=eb459e&text_color=c9d1d9&ring_color=eb459e" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hydross77&theme=radical&hide_border=true&background=0d1117&ring=eb459e&fire=eb459e&currStreakLabel=eb459e" width="49%" />
 
 </div>
 
 ---
 
-<div align="center">
-
-### 🎌 ARC ACTUEL
-
-</div>
+## ARC EN COURS
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
+║  ARC : "La Guerre Finale de l'Architecture"                  ║
 ║                                                              ║
-║   📍 Arc en cours : "L'Automatisation Absolue"               ║
+║  [x] Arc 1 — Shikai : maîtrise du back-end PHP / Symfony     ║
+║  [x] Arc 2 — Shikai : intégration front React + Tailwind     ║
+║  [x] Arc 3 — Shikai : containerisation Docker & CI/CD        ║
+║  [ ] Arc 4 — Bankai : temps réel Mercure + WebSockets        ║
+║  [ ] Arc 5 — [VERROUILLÉ — TROP DANGEREUX]                   ║
 ║                                                              ║
-║   ├── ✅ Arc 1 : Maîtriser les ténèbres d'Excel             ║
-║   ├── ✅ Arc 2 : Invoquer les esprits de Google Sheets       ║
-║   ├── ✅ Arc 3 : Sceller un pacte avec Robot Framework       ║
-║   ├── 🔥 Arc 4 : Automatiser TOUT ce qui bouge              ║
-║   └── 🔒 Arc 5 : ???  [VERROUILLÉ - TROP DANGEREUX]         ║
-║                                                              ║
-║   « Quand tu automatises assez longtemps,                    ║
-║     c'est le code qui commence à t'automatiser. »            ║
-║                                                              ║
+║  "Quand tu codes assez longtemps,                            ║
+║   c'est l'architecture qui commence à te coder."             ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-<div align="center">
+## REIATSU
 
-### 🏆 ACHIEVEMENTS DÉBLOQUÉS
-
-| 🏅 Achievement | 📜 Description | ⭐ Rareté |
-|---|---|---|
-| 💀 Omae wa mou debugged | A fix un bug avant même qu'il apparaisse | **LÉGENDAIRE** |
-| 🌀 Kage Bunshin no Jutsu | A cloné 33 repos sans perdre la raison | **ÉPIQUE** |
-| 🔥 Plus Ultra! | A push en prod un vendredi soir ET c'était stable | **MYTHIQUE** |
-| 👻 Shinigami du Code | A supprimé 10 000 lignes de code legacy en une PR | **MAUDIT** |
-| ☕ Cafféine no Jutsu | 48h de code non-stop | **INTERDIT** |
-
-</div>
+```
+BACK-END       ████████████████████░░   92%
+FRONT-END      █████████████████░░░░░   80%
+INFRA/DEVOPS   ███████████████░░░░░░░   72%
+DEBUG          ██████████████████████   99%
+PATIENCE       ████░░░░░░░░░░░░░░░░░░   18%
+```
 
 ---
 
-<div align="center">
+## BANKAI DEBLOQUÉS
 
-### 📊 POWER LEVEL
-
-```
-FORCE DE CODE    ████████████████████░░   90%  🗡️
-AUTOMATISATION   █████████████████████░   95%  🤖
-DEBUG            ██████████████████████   99%  💀
-PATIENCE         ████░░░░░░░░░░░░░░░░░   20%  💢
-SOCIAL SKILLS    ██░░░░░░░░░░░░░░░░░░░   10%  🗿
-```
-
-</div>
+| Bankai | Description | Rareté |
+|---|---|---|
+| Tensa Zangetsu | Fix un bug en une ligne | LÉGENDAIRE |
+| Mugetsu | Tout supprimé, tout refacto | MYTHIQUE |
+| Kyoka Suigetsu | Le client croit que c'est une feature | AIZEN-TIER |
+| Senbonzakura | 1000 commits en un an | ÉPIQUE |
+| Nozarashi | Supprimé 10k lignes de legacy en une PR | MAUDIT |
 
 ---
 
@@ -126,15 +103,8 @@ SOCIAL SKILLS    ██░░░░░░░░░░░░░░░░░░░
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-### 🐍 ↑ Ce serpent mange mes contributions... comme moi je mange les bugs ↑
+![Visitors](https://komarev.com/ghpvc/?username=hydross77&color=eb459e&style=for-the-badge&label=VISITEURS)
 
----
-
-![Visitors](https://komarev.com/ghpvc/?username=hydross77&color=ff0000&style=for-the-badge&label=VICTIMES+QUI+ONT+VU+CE+PROFIL)
-
-*Si tu lis encore, c'est déjà trop tard.*
-*Tu es dans mon genjutsu.* 👁️
-
-**⭐ Star un repo si tu veux survivre ⭐**
+*"Admire it. This is my Bankai."* — Byakuya Kuchiki
 
 </div>
