@@ -3,14 +3,14 @@
 <img src="https://media.giphy.com/media/SZ9orKfHbDnwc/giphy.gif" width="480" alt="Ichigo" />
 
 ```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-  NOM DE CODE   : VAGA
-  DIVISION      : 0  (hors hiérarchie)
-  ZANPAKUTO     : Anti-Bug no Tachi
-  BANKAI        : Tensa Zangetsu — clean architecture final form
-  REIATSU       : hors mesure
-  FAIBLESSE     : les deadlines (et Aizen)
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+╔══════════════════════════════════════════════════════════════╗
+║  NOM DE CODE   : VAGA                                        ║
+║  DIVISION      : 0  (hors hiérarchie)                        ║
+║  ZANPAKUTO     : Anti-Bug no Tachi                           ║
+║  BANKAI        : Tensa Zangetsu — final form                 ║
+║  REIATSU       : hors mesure                                 ║
+║  FAIBLESSE     : les deadlines (et Aizen)                    ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hydross77&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=eb459e&icon_color=eb459e&text_color=c9d1d9&ring_color=eb459e" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydross77&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=eb459e&text_color=c9d1d9" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hydross77&theme=radical&hide_border=true&background=0d1117&ring=eb459e&fire=eb459e&currStreakLabel=eb459e" width="49%" />
 
 </div>
