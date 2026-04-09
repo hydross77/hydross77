@@ -49,8 +49,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydross77&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=eb459e&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hydross77&theme=radical&hide_border=true&background=0d1117&ring=eb459e&fire=eb459e&currStreakLabel=eb459e" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hydross77&theme=radical&hide_border=true&background=0d1117&ring=eb459e&fire=eb459e&currStreakLabel=eb459e" width="60%" />
 
 </div>
 
@@ -103,8 +102,9 @@ PATIENCE       ████░░░░░░░░░░░░░░░░░�
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-![Visitors](https://komarev.com/ghpvc/?username=hydross77&color=eb459e&style=for-the-badge&label=VISITEURS)
+![Visitors](https://komarev.com/ghpvc/?username=hydross77&color=eb459e&style=for-the-badge&label=VISITEURS&base=250)
 
-*"Admire it. This is my Bankai."* — Byakuya Kuchiki
+*"計画がある。"* — Renji Abarai
+*"J'ai un plan." — [le plan échoue immédiatement]*
 
 </div>
