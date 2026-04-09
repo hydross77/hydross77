@@ -67,8 +67,6 @@
 ║  [x] Arc 4 — Bankai : temps réel Mercure + WebSockets        ║
 ║  [x] Arc 5 — [VERROUILLÉ — TROP DANGEREUX]                   ║
 ║                                                              ║
-║  "Quand tu codes assez longtemps,                            ║
-║   c'est l'architecture qui commence à te coder."             ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -109,7 +107,7 @@ PATIENCE       ████░░░░░░░░░░░░░░░░░�
 
 ---
 
-<img src="https://media.giphy.com/media/KFq3YbCpBJIzZJE3Na/giphy.gif" width="200" alt="Neji Byakugan" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBpYzl4NWY4bmtpMHQybGZnMms5Z2hjeTByeDQwNTkwNnpvZ2RzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bCCUeY6WFEHrW/giphy.gif" width="200" alt="Neji Byakugan" />
 
 *"C'est la destinée."* — Neji Hyuga
 *[push en prod un vendredi quand même]*
