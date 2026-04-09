@@ -71,8 +71,6 @@
 ║  [x] Arc 4 — Bankai : temps réel Mercure + WebSockets        ║
 ║  [x] Arc 5 — [VERROUILLÉ — TROP DANGEREUX]                   ║
 ║                                                              ║
-║  "Quand tu codes assez longtemps,                            ║
-║   c'est l'architecture qui commence à te coder."             ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
