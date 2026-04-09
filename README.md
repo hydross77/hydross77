@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&pause=600&color=EB459E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=BANKAI.;TENSA+ZANGETSU+—+debug+mode+activated" alt="Typing SVG" />
+<img src="https://media.giphy.com/media/J3KuT1PwSGmL6h6xri/giphy.gif" width="480" alt="Ichigo Bankai" />
 
 ```
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -65,8 +65,8 @@
 ║  [x] Arc 1 — Shikai : maîtrise du back-end PHP / Symfony     ║
 ║  [x] Arc 2 — Shikai : intégration front React + Tailwind     ║
 ║  [x] Arc 3 — Shikai : containerisation Docker & CI/CD        ║
-║  [ ] Arc 4 — Bankai : temps réel Mercure + WebSockets        ║
-║  [ ] Arc 5 — [VERROUILLÉ — TROP DANGEREUX]                   ║
+║  [x] Arc 4 — Bankai : temps réel Mercure + WebSockets        ║
+║  [x] Arc 5 — [VERROUILLÉ — TROP DANGEREUX]                   ║
 ║                                                              ║
 ║  "Quand tu codes assez longtemps,                            ║
 ║   c'est l'architecture qui commence à te coder."             ║
@@ -101,7 +101,7 @@ PATIENCE       ████░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://media.giphy.com/media/ukto3TrQS9hIDoDFHF/giphy.gif" width="480" alt="Byakuya" />
 
 ![Visitors](https://komarev.com/ghpvc/?username=hydross77&color=eb459e&style=for-the-badge&label=VISITEURS)
 
