@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&pause=600&color=EB459E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=BANKAI.;TENSA+ZANGETSU+—+debug+mode+activated" alt="Typing SVG" />
+<img src="https://media.giphy.com/media/SZ9orKfHbDnwc/giphy.gif" width="480" alt="Ichigo" />
 
 ```
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
