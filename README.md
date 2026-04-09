@@ -106,9 +106,6 @@ PATIENCE       ████░░░░░░░░░░░░░░░░░�
 
 ![Visitors](https://komarev.com/ghpvc/?username=hydross77&color=eb459e&style=for-the-badge&label=VISITEURS&base=250)
 
-*"計画がある。"* — Renji Abarai
-*"J'ai un plan." — [le plan échoue immédiatement]*
-
 ---
 
 
