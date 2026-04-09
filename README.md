@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/SZ9orKfHbDnwc/giphy.gif" width="480" alt="Ichigo" />
+```diff
+- const bankai: string = "Bankai. Minazuki.";
+```
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWIxN2psbXZkd3YxcnQzMzBvYmV4Z2pzY2tpNHU1dTh0ZzBhaWR0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rWRQfFnxm3lABaMBNv/giphy.gif" width="480" alt="Ichigo" />
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -67,6 +71,8 @@
 ║  [x] Arc 4 — Bankai : temps réel Mercure + WebSockets        ║
 ║  [x] Arc 5 — [VERROUILLÉ — TROP DANGEREUX]                   ║
 ║                                                              ║
+║  "Quand tu codes assez longtemps,                            ║
+║   c'est l'architecture qui commence à te coder."             ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -98,9 +104,15 @@ PATIENCE       ████░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 ![Visitors](https://komarev.com/ghpvc/?username=hydross77&color=eb459e&style=for-the-badge&label=VISITEURS&base=250)
 
+*"計画がある。"* — Renji Abarai
+*"J'ai un plan." — [le plan échoue immédiatement]*
+
 ---
+
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBpYzl4NWY4bmtpMHQybGZnMms5Z2hjeTByeDQwNTkwNnpvZ2RzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bCCUeY6WFEHrW/giphy.gif" width="200" alt="Neji Byakugan" />
 
