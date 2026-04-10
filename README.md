@@ -8,7 +8,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  NOM DE CODE   : VAGA                                        ║
+║  NAME          : VAGA                                        ║
 ║  DIVISION      : 0  (hors hiérarchie)                        ║
 ║  ZANPAKUTO     : Anti-Bug no Tachi                           ║
 ║  BANKAI        : Tensa Zangetsu — final form                 ║
