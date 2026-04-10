@@ -13,7 +13,7 @@
 ║  ZANPAKUTO     : Anti-Bug no Tachi                           ║
 ║  BANKAI        : Tensa Zangetsu — final form                 ║
 ║  REIATSU       : hors mesure                                 ║
-║  FAIBLESSE     : les deadlines (et Aizen)                    ║
+║  FAIBLESSE     : NICHT NEINE NADA                            ║
 ║  https://portfolio-alpha-nine-la3ktpjafs.vercel.app/         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
